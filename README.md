@@ -1,2 +1,2 @@
 # Minecraft-PSP
-Minecarft PSP
+Minecraft PSP
